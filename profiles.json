@@ -10,7 +10,7 @@
       // Make changes here to the powershell.exe profile
       "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
       "suppressApplicationTitle": true,
-      "name": "Windows PowerShell",
+      "name": "PowerShell",
       "commandline": "powershell.exe",
       "closeOnExit": true,
       "colorScheme": "Campbell",
@@ -22,7 +22,7 @@
     {
       "guid": "{7f9a6b31-0a06-42ec-96ba-d86b0d1119a5}",
       "suppressApplicationTitle": true,
-      "name": "pwsh",
+      "name": "PowerShell-Core",
       "commandline": "pwsh.exe",
       "startingDirectory": "%USERPROFILE%",
       "fontFace": "Fira Code",
@@ -38,7 +38,7 @@
       // Make changes here to the cmd.exe profile
       "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
       "suppressApplicationTitle": true,
-      "name": "cmd",
+      "name": "CMD",
       "commandline": "cmd.exe",
       "closeOnExit": true,
       "colorScheme": "Campbell",
@@ -63,7 +63,7 @@
     {
       "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
       "suppressApplicationTitle": true,
-      "name": "Azure Cloud Shell",
+      "name": "Az Cloud Shell",
       "source": "Windows.Terminal.Azure",
       "closeOnExit": true,
       "colorScheme": "Campbell",
