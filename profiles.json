@@ -1,7 +1,7 @@
 // To view the default settings, hold "alt" while clicking on the "Settings" button.
 // For documentation on these settings, see: https://aka.ms/terminal-documentation
 // File symlinked asdasd
-{ 
+{
   "$schema": "https://aka.ms/terminal-profiles-schema",
 
   "defaultProfile": "{2c4de342-38b7-51cf-b940-2309a097f518}",
@@ -12,6 +12,7 @@
       "suppressApplicationTitle": true,
       "name": "PowerShell",
       "commandline": "powershell.exe",
+      "fontFace": "Cascadia Code",
       "closeOnExit": true,
       "colorScheme": "Campbell",
       "backgroundImage": "D:\\Pictures\\katana.jfif",
