@@ -69,6 +69,8 @@
       "suppressApplicationTitle": true,
       "name": "Az Cloud Shell",
       "source": "Windows.Terminal.Azure",
+      "fontFace": "Cascadia Code PL",
+      "fontSize": 14,
       "closeOnExit": true,
       "colorScheme": "Campbell",
       "backgroundImage": "D:\\Pictures\\katana.jfif",
