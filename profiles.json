@@ -12,7 +12,7 @@
       "suppressApplicationTitle": true,
       "name": "PowerShell",
       "commandline": "powershell.exe",
-      "fontFace": "Cascadia Code",
+      "fontFace": "Cascadia Code PL",
       "closeOnExit": true,
       "colorScheme": "Campbell",
       "backgroundImage": "D:\\Pictures\\katana.jfif",
