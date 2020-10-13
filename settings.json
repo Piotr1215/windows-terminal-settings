@@ -91,18 +91,24 @@
 
   // Add any keybinding overrides to this array.
   // To unbind a default keybinding, set the command to "unbound"
-  "keybindings": [{
+  "actions": [{
       "command": "paste",
       "keys": [
         "shift+insert"
       ]
     },
     {
-      "command": "splitHorizontal",
+      "command": {
+        "action": "splitPane",
+        "split": "vertical"
+      },
       "keys": ["ctrl+1"]
     },
     {
-      "command": "splitVertical",
+      "command": {
+        "action": "splitPane",
+        "split": "horizontal"
+      },
       "keys": ["ctrl+2"]
     },
     {
