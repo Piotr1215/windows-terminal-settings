@@ -35,7 +35,8 @@
       "backgroundImage": "D:\\Pictures\\katana.jfif",
       "backgroundImageStretchMode": "uniformToFill",
       "backgroundImageOpacity": 0.1,
-      "hidden": false
+      "hidden": false,
+      "commandline": "C:\\Users\\decod\\.dotnet\\tools\\pwsh.exe"
     },
     {
       // Make changes here to the cmd.exe profile
