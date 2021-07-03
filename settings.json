@@ -13,7 +13,8 @@
   "showTabsInTitlebar": true,
   "alwaysShowTabs": true,
   "useTabSwitcher": true,
-  "startupActions": "sp -V -p PowerShell-Core",
+  "startupActions": "sp -H move-focus down `; ft -t 0 `; sp -p PowerShell-Core move-focus up ",
+  //"startupActions": "sp -H ` ; -p PowerShell-Core",
 
   "profiles": [{
       // Make changes here to the powershell.exe profile
